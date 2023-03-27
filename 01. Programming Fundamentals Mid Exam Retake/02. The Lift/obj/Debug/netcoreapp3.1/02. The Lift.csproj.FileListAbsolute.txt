@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.pdb

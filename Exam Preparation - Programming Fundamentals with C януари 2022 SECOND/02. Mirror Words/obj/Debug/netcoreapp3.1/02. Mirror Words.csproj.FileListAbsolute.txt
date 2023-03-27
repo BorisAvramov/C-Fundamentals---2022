@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Exam Preparation - Programming Fundamentals with C януари 2022 SECOND\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.pdb

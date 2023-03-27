@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.pdb

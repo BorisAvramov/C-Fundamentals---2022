@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb

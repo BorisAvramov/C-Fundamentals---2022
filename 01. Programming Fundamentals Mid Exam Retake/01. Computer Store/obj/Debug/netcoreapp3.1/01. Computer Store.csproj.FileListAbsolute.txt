@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.pdb

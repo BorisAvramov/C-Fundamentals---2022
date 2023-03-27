@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb

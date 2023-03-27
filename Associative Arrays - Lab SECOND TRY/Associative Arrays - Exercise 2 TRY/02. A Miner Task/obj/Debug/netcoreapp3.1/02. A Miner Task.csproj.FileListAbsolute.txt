@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb

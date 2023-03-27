@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb

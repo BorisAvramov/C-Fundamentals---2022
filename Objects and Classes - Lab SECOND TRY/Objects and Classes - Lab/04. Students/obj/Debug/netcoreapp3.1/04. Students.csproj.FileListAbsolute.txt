@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb

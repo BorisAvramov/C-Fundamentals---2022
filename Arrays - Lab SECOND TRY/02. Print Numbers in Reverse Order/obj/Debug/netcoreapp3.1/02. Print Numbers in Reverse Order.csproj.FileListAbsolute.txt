@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb

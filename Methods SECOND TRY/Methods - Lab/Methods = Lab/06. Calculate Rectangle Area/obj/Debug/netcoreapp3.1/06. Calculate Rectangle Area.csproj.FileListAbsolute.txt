@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb

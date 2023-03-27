@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.pdb

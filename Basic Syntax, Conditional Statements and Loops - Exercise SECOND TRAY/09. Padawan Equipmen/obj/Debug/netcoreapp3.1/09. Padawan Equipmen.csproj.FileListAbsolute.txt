@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.pdb

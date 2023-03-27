@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb

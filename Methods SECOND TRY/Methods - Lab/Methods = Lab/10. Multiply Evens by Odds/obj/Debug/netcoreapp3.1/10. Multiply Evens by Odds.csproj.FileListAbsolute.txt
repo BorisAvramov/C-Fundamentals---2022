@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb

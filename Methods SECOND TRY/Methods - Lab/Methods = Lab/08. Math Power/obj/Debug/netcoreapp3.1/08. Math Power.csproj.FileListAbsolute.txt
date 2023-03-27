@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb

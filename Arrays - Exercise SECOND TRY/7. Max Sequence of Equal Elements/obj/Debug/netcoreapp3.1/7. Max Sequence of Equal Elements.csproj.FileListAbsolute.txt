@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.pdb

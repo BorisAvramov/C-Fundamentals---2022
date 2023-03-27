@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Associative Arrays - Lab SECOND TRY\Associative Arrays - Exercise 2 TRY\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.pdb

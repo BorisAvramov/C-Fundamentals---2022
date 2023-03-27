@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb

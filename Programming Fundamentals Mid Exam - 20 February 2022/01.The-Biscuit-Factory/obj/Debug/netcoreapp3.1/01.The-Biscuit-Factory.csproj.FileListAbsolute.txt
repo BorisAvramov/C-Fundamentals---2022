@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\obj\Debug\netcoreapp3.1\01.The-Biscuit-Factory.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\obj\Debug\netcoreapp3.1\01.The-Biscuit-Factory.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\bin\Debug\netcoreapp3.1\01.The-Biscuit-Factory.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\bin\Debug\netcoreapp3.1\01.The-Biscuit-Factory.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\bin\Debug\netcoreapp3.1\01.The-Biscuit-Factory.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\bin\Debug\netcoreapp3.1\01.The-Biscuit-Factory.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\bin\Debug\netcoreapp3.1\01.The-Biscuit-Factory.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\bin\Debug\netcoreapp3.1\01.The-Biscuit-Factory.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\obj\Debug\netcoreapp3.1\01.The-Biscuit-Factory.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\obj\Debug\netcoreapp3.1\01.The-Biscuit-Factory.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\01.The-Biscuit-Factory\obj\Debug\netcoreapp3.1\01.The-Biscuit-Factory.csprojAssemblyReference.cache

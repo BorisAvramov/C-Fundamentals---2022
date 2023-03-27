@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.pdb

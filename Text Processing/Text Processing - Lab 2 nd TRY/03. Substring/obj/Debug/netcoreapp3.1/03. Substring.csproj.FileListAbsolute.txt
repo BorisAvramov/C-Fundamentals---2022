@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb

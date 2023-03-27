@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.exe
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.deps.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb

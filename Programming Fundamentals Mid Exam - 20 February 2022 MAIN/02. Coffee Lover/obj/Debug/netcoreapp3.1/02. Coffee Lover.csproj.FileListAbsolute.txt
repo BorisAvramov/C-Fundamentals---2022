@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022 MAIN\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.pdb

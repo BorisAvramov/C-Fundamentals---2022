@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+C:\Users\Dell\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb

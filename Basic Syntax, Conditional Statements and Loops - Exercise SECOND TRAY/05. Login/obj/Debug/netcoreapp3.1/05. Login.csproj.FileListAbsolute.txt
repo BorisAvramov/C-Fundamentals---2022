@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb

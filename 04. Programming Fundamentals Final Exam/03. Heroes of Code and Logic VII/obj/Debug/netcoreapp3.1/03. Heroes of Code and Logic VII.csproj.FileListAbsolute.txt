@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.exe
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.deps.json
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb

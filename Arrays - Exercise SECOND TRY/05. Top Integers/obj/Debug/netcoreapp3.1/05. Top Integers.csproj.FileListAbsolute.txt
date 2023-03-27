@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.pdb

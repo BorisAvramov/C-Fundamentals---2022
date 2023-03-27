@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.pdb

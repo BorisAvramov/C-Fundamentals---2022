@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.pdb

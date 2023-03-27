@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb

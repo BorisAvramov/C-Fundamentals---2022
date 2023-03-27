@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\obj\Debug\netcoreapp3.1\01. Train.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb

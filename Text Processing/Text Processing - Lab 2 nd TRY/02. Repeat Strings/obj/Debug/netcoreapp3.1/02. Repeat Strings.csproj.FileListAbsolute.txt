@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb

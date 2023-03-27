@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.exe
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.deps.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.pdb

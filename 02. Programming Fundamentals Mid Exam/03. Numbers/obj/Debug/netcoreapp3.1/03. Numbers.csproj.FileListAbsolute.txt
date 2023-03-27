@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.pdb

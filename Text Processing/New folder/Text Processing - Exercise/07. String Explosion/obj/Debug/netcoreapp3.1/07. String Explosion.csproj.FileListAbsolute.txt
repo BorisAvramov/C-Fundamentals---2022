@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb

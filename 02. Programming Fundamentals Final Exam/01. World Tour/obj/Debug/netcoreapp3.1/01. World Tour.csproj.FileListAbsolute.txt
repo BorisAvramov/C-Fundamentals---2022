@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb

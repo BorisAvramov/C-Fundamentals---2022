@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\obj\Debug\netcoreapp3.1\examples.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\obj\Debug\netcoreapp3.1\examples.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\bin\Debug\netcoreapp3.1\examples.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\bin\Debug\netcoreapp3.1\examples.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\bin\Debug\netcoreapp3.1\examples.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\bin\Debug\netcoreapp3.1\examples.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\bin\Debug\netcoreapp3.1\examples.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\bin\Debug\netcoreapp3.1\examples.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\obj\Debug\netcoreapp3.1\examples.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\examples\obj\Debug\netcoreapp3.1\examples.pdb

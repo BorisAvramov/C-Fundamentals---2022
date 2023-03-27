@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.pdb

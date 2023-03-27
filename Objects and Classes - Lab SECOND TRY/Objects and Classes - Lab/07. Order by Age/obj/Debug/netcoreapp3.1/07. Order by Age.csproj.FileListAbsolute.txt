@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.pdb

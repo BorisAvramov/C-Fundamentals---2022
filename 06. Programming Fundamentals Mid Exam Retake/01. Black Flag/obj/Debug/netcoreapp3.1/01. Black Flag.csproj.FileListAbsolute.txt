@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.pdb

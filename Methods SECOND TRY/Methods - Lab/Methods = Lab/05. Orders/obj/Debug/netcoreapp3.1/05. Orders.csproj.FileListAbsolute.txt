@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb

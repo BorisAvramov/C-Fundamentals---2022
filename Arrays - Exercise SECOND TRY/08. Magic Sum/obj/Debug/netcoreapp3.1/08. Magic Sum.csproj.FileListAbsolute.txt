@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Arrays - Exercise SECOND TRY\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Dell\source\repos\Arrays - Lab SECOND TRY\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb

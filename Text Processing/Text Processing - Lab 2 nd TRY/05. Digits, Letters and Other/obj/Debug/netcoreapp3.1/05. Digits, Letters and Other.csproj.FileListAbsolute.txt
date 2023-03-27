@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb

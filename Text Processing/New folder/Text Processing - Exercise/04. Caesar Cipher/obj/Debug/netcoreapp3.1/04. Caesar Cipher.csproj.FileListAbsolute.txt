@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Text Processing\New folder\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.pdb

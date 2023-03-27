@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\bin\Debug\netcoreapp3.1\PROBA.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\bin\Debug\netcoreapp3.1\PROBA.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\bin\Debug\netcoreapp3.1\PROBA.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\bin\Debug\netcoreapp3.1\PROBA.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\bin\Debug\netcoreapp3.1\PROBA.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\bin\Debug\netcoreapp3.1\PROBA.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\obj\Debug\netcoreapp3.1\PROBA.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\obj\Debug\netcoreapp3.1\PROBA.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\obj\Debug\netcoreapp3.1\PROBA.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\PROBA\obj\Debug\netcoreapp3.1\PROBA.pdb

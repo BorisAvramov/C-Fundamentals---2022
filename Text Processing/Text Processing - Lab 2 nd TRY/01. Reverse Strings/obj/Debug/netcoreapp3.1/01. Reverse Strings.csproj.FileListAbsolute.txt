@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\New folder\Text Processing - Lab 2 nd TRY\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb

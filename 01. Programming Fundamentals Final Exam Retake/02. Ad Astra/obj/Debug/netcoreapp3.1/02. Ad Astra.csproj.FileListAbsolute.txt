@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb

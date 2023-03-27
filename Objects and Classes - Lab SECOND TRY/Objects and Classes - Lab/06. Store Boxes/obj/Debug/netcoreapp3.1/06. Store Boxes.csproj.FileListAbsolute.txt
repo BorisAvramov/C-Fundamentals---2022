@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.pdb

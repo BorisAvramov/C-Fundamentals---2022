@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Lab 2 nd TRY\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb

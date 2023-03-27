@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Objects and Classes - Lab SECOND TRY\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb

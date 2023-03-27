@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\REGULAR EXPRESSION\Regular Expressions - Exercise 2nd TRY\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.pdb

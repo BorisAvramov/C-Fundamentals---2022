@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Final Exam Retake\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Basic Syntax, Conditional Statements and Loops - Exercise SECOND TRAY\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb

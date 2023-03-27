@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.pdb

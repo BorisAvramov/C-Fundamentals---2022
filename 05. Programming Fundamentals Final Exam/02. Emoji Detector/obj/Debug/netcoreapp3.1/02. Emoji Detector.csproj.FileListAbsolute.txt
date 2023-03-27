@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb

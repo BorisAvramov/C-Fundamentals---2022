@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+C:\Users\Dell\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\06. Programming Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.pdb

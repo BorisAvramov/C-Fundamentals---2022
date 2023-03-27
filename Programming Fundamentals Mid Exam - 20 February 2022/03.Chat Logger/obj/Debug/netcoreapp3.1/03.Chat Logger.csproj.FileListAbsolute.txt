@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\bin\Debug\netcoreapp3.1\03.Chat Logger.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\bin\Debug\netcoreapp3.1\03.Chat Logger.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\bin\Debug\netcoreapp3.1\03.Chat Logger.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\bin\Debug\netcoreapp3.1\03.Chat Logger.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\bin\Debug\netcoreapp3.1\03.Chat Logger.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\bin\Debug\netcoreapp3.1\03.Chat Logger.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\obj\Debug\netcoreapp3.1\03.Chat Logger.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\obj\Debug\netcoreapp3.1\03.Chat Logger.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\obj\Debug\netcoreapp3.1\03.Chat Logger.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\obj\Debug\netcoreapp3.1\03.Chat Logger.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\03.Chat Logger\obj\Debug\netcoreapp3.1\03.Chat Logger.pdb

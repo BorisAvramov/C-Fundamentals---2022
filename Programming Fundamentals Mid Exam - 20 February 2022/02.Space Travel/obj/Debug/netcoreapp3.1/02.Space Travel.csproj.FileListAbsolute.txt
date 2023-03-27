@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\bin\Debug\netcoreapp3.1\02.Space Travel.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\bin\Debug\netcoreapp3.1\02.Space Travel.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\bin\Debug\netcoreapp3.1\02.Space Travel.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\bin\Debug\netcoreapp3.1\02.Space Travel.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\bin\Debug\netcoreapp3.1\02.Space Travel.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\bin\Debug\netcoreapp3.1\02.Space Travel.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\obj\Debug\netcoreapp3.1\02.Space Travel.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\obj\Debug\netcoreapp3.1\02.Space Travel.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\obj\Debug\netcoreapp3.1\02.Space Travel.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\obj\Debug\netcoreapp3.1\02.Space Travel.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Mid Exam - 20 February 2022\02.Space Travel\obj\Debug\netcoreapp3.1\02.Space Travel.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. String Game.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. String Game.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. String Game.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. String Game.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. String Game.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. String Game.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. String Game.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. String Game.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. String Game.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. String Game.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\Programming Fundamentals Final Exam - 03 April 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. String Game.csprojAssemblyReference.cache

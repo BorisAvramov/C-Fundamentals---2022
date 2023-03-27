@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "06. Store Boxes SECOND WAY/1.0.0": {
+        "runtime": {
+          "06. Store Boxes SECOND WAY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06. Store Boxes SECOND WAY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

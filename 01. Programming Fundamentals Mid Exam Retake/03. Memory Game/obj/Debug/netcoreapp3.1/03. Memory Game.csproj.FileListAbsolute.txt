@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb

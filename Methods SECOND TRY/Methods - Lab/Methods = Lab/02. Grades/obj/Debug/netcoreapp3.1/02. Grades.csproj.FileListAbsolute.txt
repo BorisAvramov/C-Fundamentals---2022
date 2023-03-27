@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.exe
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.deps.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Dell\source\repos\Methods - Lab\Methods = Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.pdb

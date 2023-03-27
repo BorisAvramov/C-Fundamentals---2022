@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.exe
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.deps.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.dev.json
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csprojAssemblyReference.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfo.cs
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.dll
+C:\Users\Dell\source\C# Fundamentals SECOND TRY\03. Programming Fundamentals Final Exam Retake\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.pdb
